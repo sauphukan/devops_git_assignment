@@ -1,0 +1,63 @@
+
+/*
+* {
+background-color: darkviolet;
+color: white;
+}
+
+
+h1, h2 {
+background-color: darkviolet;
+color: white;
+}
+
+
+#cat {
+background-color: darkviolet;
+color: white;
+}
+.kittens {
+background-color: red;
+color: white;
+}
+
+
+#dog ul {
+background-color: darkviolet;
+color: white;
+}
+
+body > p {
+background-color: darkviolet;
+color: white;
+}
+
+div ~ p {
+background-color: darkviolet;
+color: white;
+}
+
+
+div ~ h2 {
+background-color: darkviolet;
+color: white;
+}
+
+
+[title="I’m brown!"] {
+background-color: darkviolet;
+color: white;
+}
+*/
+
+ul li:nth-child(2) {
+background-color: darkviolet;
+color: white;
+}
+
+#cat:hover, #dog:hover {
+background-color: red;
+color: white;
+}
+
+*/
